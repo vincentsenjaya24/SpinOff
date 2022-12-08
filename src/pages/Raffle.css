@@ -20,9 +20,9 @@ body {
       monospace;
   }
   
-  .container {
+  /* .container {
     height: 100vh;
-  }
+  } */
   
   .raffle-header {
     display: flex;
